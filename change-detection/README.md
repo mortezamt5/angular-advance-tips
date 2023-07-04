@@ -3,7 +3,7 @@
 
   Change detection is the process through which Angular checks to see whether your application state has changed, and if any DOM needs to be updated
 
-![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
+![Logo](https://github.com/mortezamt5/angular-advance-tips/blob/main/change-detection/src/assets/change-detection.JPG)
 #### Angular use of change detection for 3 reasons : 
 ``` 
 1- Whenever Events like click , submit and etc happend
